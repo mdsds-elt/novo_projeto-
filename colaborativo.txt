@@ -6,5 +6,9 @@ Texto inicial diferente
 Alterando a branch main
 
 Alteração na branch feature_merge_vs_rebase
+
 alteracao na branch feature_rebase
+
+alterar a branch main para rebase 
+
 
