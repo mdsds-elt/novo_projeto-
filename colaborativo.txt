@@ -2,4 +2,8 @@
 Este é um arquivo colaborativo
 Texto inicial diferente
 
+
 Alterando a branch main
+
+Alteração na branch feature_merge_vs_rebase
+
